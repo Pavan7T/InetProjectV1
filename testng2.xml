@@ -8,6 +8,7 @@
 
 		<classes>
 			<class name="com.inetproject.testCases.TC_LoginTest_001" />
+			<class name="com.inetproject.testCases.TC_appointment_002" />
 		</classes>
 
 	</test> <!-- Test -->
